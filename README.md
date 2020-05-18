@@ -10,9 +10,13 @@ O primeiro passo realizado foi analisaar os dados para entender as informações
 
 ## 2. Construção do modelo Kmeans
 
-Após a análise dos dados, foram criadas 5 categorias de spending score para classificar os clientes com base nessas categorias utilizando o algoritmo de Kmeans
+Após a análise dos dados, buscou-se identificar quais os atributos que influenciavam algum tipo de agrupamento nos dados.
 
-![](https://github.com/luisgustavob78/Segmentacao-de-clientes-usando-Kmeans/blob/master/GIF%20kmeans%20mall.gif)
+![](https://github.com/luisgustavob78/Segmentacao-de-clientes-usando-Kmeans/blob/master/kmeans_1.png)
+
+Com esse resultado, o modelo de agrupamento por Kmeans foi construido, resultando na seguinte distribuição de clusters:
+
+![](https://github.com/luisgustavob78/Segmentacao-de-clientes-usando-Kmeans/blob/master/kmeans_2.png)
 
 ## Exemplos de uso
 
